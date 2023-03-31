@@ -18,3 +18,5 @@ This block creates a list of encodings to try in order of priority, and then att
 
 This block checks if any files were found with the specified keywords and prints a message accordingly. It then calculates the total number of files searched and the execution time of the program. Finally, it prints the number of files containing the keywords and the execution time.
 
+![image](https://user-images.githubusercontent.com/128144427/229095280-a7733ed1-6c35-48e8-adf1-ffb47fe26d41.png)
+
